@@ -1,8 +1,5 @@
 package com.projetoIntegrador.EducacaoDeQualidade.model;
 
-
-
-
 import java.util.List;
 
 import javax.persistence.CascadeType;
